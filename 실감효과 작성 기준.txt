@@ -1,0 +1,25 @@
+# effect 기준
+
+
+motion	 	카메라 워킹, object의 움직임
+		first person: 등장인물이 직접 보는 듯한 화면
+		third person: first person 이외로 제 3자가 보는 듯한 대부분의 화면
+
+
+
+vibration	화면 앵글의 흔들림, 화면 안에 object의 움직임 등을 포함한 모든 진동
+
+
+
+
+wind		바람으로 인한 움직임, 물체가 이동하거나 움직일 때, 스칠 때
+
+
+
+
+water		물이 튀거나 떨어질 때
+
+
+
+
+flash		태양이나 손전등 등 빛이 비칠 때
